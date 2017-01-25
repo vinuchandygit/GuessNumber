@@ -1,0 +1,44 @@
+Assignment using R Presentation
+========================================================
+author: vinu george chandy
+date: 23/1/2017
+autosize: true
+
+Slide 1
+========================================================
+
+Presentation build using R Presenter  
+repared by Vinu George Chandy  
+5 Page pitch
+
+- About
+- R Code
+- COnclusion
+
+Slide 2
+========================================================
+
+Guess an integer between 1 and 100  
+The objective of this game is to guess an integer between 1 and 100 (inclusive)  
+Finally try to match it with the computer selection  
+
+Slide 3
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide 4
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+
+Slide 5
+========================================================
+Conclusion  
+&nbsp;  
+This was build using R Presenter, displaying R Code and building a 5 page presentation  
